@@ -12,7 +12,7 @@ The blog which greatly helped me:
 https://matthewkmayer.github.io/blag/public/post/postgres-tls/
 
 
-In you main, add:
+In your main, add:
 ```
 mod database;
 ```
