@@ -24,3 +24,9 @@ rocket::ignite()
   .manage(init_pg_pool())
   .launch();
 ```
+
+Environment:
+
+DB_SSL=[none|require], defaults to require
+
+DB_URL="postgres://nicolasb@localhost/nicolasb"
